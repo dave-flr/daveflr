@@ -70,6 +70,10 @@ return {
     }
 ```
 
+![stats](https://github-readme-stats.vercel.app/api?username=daveflr&show_icons=true&hide_title=false&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveflr&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daveflr" alt="daveflr" /> </p>
 <!--
 **daveflr/daveflr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
