@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I'm a programmer, web developer, frontend, backend, and some other stuff. I like Python and React.js and made bots and APIs.
 
+See my resume here --> [daveflr](https://www.getmanfred.com/profile/daveflr)
+ 
+
 #### Some things I'm good at:
 
 ```python
